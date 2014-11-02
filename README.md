@@ -71,7 +71,7 @@ There is a huge ecosystem of open source JavaScript frameworks. Some are clear w
 # Databases
 * [MongoDB](http://mongodb.org/) - A document based NoSQL database.
 * [PostgreSQL](http://www.postgresql.org/) - Relational database.
-* [MySQL](http://mysql.com) - Relational database now managed by Oracle and part of the [LAMP](http://en.wikipedia.org/wiki/LAMP_(software_bundle%29) stack.
+* [MySQL](http://mysql.com) - Relational database now managed by Oracle and part of the *LAMP* stack.
 
 ## Mobile
 * [Apache Cordova](https://cordova.apache.org/) - Platform for building native apps from HTML, CSS and JavaScript.
@@ -87,6 +87,7 @@ There is a huge ecosystem of open source JavaScript frameworks. Some are clear w
 ## Project Management
 * [Trello](http://trello.com) - Lightweight task tracking based on lists and cards.
 * [Pivitol Tracker](http://pivotaltracker.com) - Agile/Scrum type tracking for larger projects.
+* [Slack](https://slack.com/) - Team communication.
 
 ## Deployment and Hosting
 * [Amazon Web Services (AWS)](http://aws.amazon.com/) - [EC2](http://aws.amazon.com/ec2) (Elastic Compute Cloud), [S3](http://aws.amazon.com/s3) (Simple Storage Service), [RDS](http://aws.amazon.com/rds) (Relational Database Service)
