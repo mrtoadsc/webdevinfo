@@ -1,4 +1,4 @@
-<mxfile modified="2022-09-14T19:45:54.971Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="oYQ8SF_hEYsTininm8KT" version="20.2.6" type="github" pages="2">
+<mxfile modified="2022-09-15T01:16:13.904Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Ws57J0VSoXQOHcw9sRhS" version="20.2.6" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1963" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -207,15 +207,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-4" value="Grafana&lt;br&gt;(flight dashboards)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="294.05" y="698" width="120" height="60" as="geometry" />
+          <mxGeometry x="175.05" y="698" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-5" value="Quantimet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294.05" y="223" width="120" height="80" as="geometry" />
+          <mxGeometry x="175.05" y="223" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="470" as="sourcePoint" />
-            <mxPoint x="550" y="470" as="targetPoint" />
+            <mxPoint x="431" y="470" as="sourcePoint" />
+            <mxPoint x="431" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKqBJ5LWkmLMbD8beMVf-10" target="FKqBJ5LWkmLMbD8beMVf-5">
@@ -251,7 +251,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-10" value="weather-service(s)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="346" width="120" height="60" as="geometry" />
+          <mxGeometry x="351" y="346" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKqBJ5LWkmLMbD8beMVf-11" target="FKqBJ5LWkmLMbD8beMVf-5">
           <mxGeometry relative="1" as="geometry" />
@@ -270,13 +270,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-13" value="Weatherlink" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="645" y="223" width="120" height="80" as="geometry" />
+          <mxGeometry x="526" y="223" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-14" value="Mesonet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="223" width="120" height="80" as="geometry" />
+          <mxGeometry x="351" y="223" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-24" value="Kafka (MSK)" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="1">
-          <mxGeometry x="491" y="450" width="78" height="78" as="geometry" />
+          <mxGeometry x="372" y="450" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKqBJ5LWkmLMbD8beMVf-25" target="FKqBJ5LWkmLMbD8beMVf-24">
           <mxGeometry relative="1" as="geometry" />
@@ -303,10 +303,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-25" value="Telegraf" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="582" width="120" height="60" as="geometry" />
+          <mxGeometry x="351" y="582" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-27" value="InfluxDB (short term time series)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
-          <mxGeometry x="299.995" y="572" width="108.11" height="80" as="geometry" />
+          <mxGeometry x="180.995" y="572" width="108.11" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="FKqBJ5LWkmLMbD8beMVf-28" target="FKqBJ5LWkmLMbD8beMVf-47">
           <mxGeometry relative="1" as="geometry" />
@@ -317,36 +317,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-28" value="PostgreSQL (long term storage)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
-          <mxGeometry x="650.945" y="572" width="108.11" height="80" as="geometry" />
+          <mxGeometry x="531.945" y="572" width="108.11" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKqBJ5LWkmLMbD8beMVf-34" target="FKqBJ5LWkmLMbD8beMVf-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-34" value="Workstation" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="161" y="708" width="50" height="40" as="geometry" />
+          <mxGeometry x="42" y="708" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-46" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="213" width="610" height="97" as="geometry">
+          <mxGeometry x="51" y="213" width="610" height="97" as="geometry">
             <mxRectangle x="50" y="90" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FKqBJ5LWkmLMbD8beMVf-49" value="Cloud data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FKqBJ5LWkmLMbD8beMVf-46">
-          <mxGeometry y="10" width="80" height="30" as="geometry" />
+        <mxCell id="FKqBJ5LWkmLMbD8beMVf-49" value="Vendor cloud data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FKqBJ5LWkmLMbD8beMVf-46">
+          <mxGeometry x="4" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-12" value="Davis Vantage Vue" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sensor;" vertex="1" parent="1">
-          <mxGeometry x="670" y="60" width="70" height="78" as="geometry" />
+          <mxGeometry x="551" y="60" width="70" height="78" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-11" value="Intellisense C600" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sensor;" vertex="1" parent="1">
-          <mxGeometry x="318.05" y="60" width="72" height="78" as="geometry" />
+          <mxGeometry x="199.05" y="60" width="72" height="78" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-47" value="xlsx" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="685.52" y="704" width="38.96" height="48" as="geometry" />
+          <mxGeometry x="566.52" y="704" width="38.96" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-51" value="Weather Data Pipeline" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontStyle=4;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="15" y="20" width="170" height="30" as="geometry" />
+          <mxGeometry x="15" y="7" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-53" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="50" width="610" height="130" as="geometry" />
+          <mxGeometry x="51" y="50" width="610" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-54" value="Sensor data acquisition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FKqBJ5LWkmLMbD8beMVf-53">
           <mxGeometry y="10" width="150" height="30" as="geometry" />
@@ -355,13 +355,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-55" value="Pulls data from cloud services, transforms data, publishes to Kafka weather topic" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;dashed=1;fontSize=11;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="185" y="414" width="200" height="96" as="geometry" />
+          <mxGeometry x="66" y="414" width="200" height="96" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=11;dashed=1;" edge="1" parent="1" source="FKqBJ5LWkmLMbD8beMVf-58" target="FKqBJ5LWkmLMbD8beMVf-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FKqBJ5LWkmLMbD8beMVf-58" value="Reads from Kafka topic,&lt;br&gt;writes to data stores" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;dashed=1;fontSize=11;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="645" y="417" width="150" height="90" as="geometry" />
+          <mxGeometry x="526" y="417" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
